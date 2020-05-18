@@ -13,8 +13,8 @@ First time use:
 2. Open the colab notebook INF442_P8.
 3. Run the section "Getting data and saving them at my Google Drive folder".
 4. Run the section "Data Cleaning".
-5. Run the section "Data Analysis" for insights in the data.
+5. Run the sections "Data Analysis", "Time Analysis" and "Pedestrian Analysis" for insights in the data.
 
 Second and other times use:
 1. Open the colab notebook INF442_P8.
-2. Run the section "Data Analysis" for insights in the data.
+2. Run the sections "Data Analysis", "Time Analysis" and "Pedestrian Analysis" for insights in the data.
